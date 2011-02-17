@@ -1,6 +1,6 @@
 Ormy, an object relational mapper, and Unity Test, a testing framework.
 
-This is back-burnered.  Currently joins are not implemented, and the only data types implemented are strings and integers.
+This is back-burnered, due to the project I'm working on not needing it.  Currently joins are not implemented, and the only data types implemented are strings and integers.
 
 To use Ormy:
 1. Include ormy.php.
